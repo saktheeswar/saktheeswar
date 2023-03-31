@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @saktheeswar
-- 👀 I’m interested in cloud computing..
-- 🌱 I’m currently learning Azure ,SQL,python...
-- 💞️ I’m looking to collaborate on  cloud based company
+- 👀 I’m interested in cloud computing,web application development
+- 🌱 I’m currently Working in .NET
 - 📫 How to reach me in Linked in..www.linkedin.com/in/saktheeswaran-munusamy-979a7823a
 - I completed microsoft ceftification Az-900 Azure fundementals,Dp-900 Azure data fundementals...
 
